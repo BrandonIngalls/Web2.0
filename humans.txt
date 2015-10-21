@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brandon Ingalls -- LUG President -- @BrandonIngalls0
 
 # THANKS
 
-    <name>
+    Jared Ledvina
 
 # TECHNOLOGY COLOPHON
 
